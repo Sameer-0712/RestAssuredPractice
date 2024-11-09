@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "name": "Alice",
+      "department": "HR",
+      "age": 28
+    },
+    {
+      "name": "Bob",
+      "department": "Finance",
+      "age": 35,
+      "projects": [
+        {
+          "name": "Project A",
+          "status": "ongoing"
+        },
+        {
+          "name": "Project B",
+          "status": "completed"
+        }
+      ]
+    }
+  ]
+}
